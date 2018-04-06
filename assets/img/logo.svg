@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="354px" viewBox="0 0 347 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(13.000000, 13.000000)">
+            <g id="Group" stroke="#6048A8" stroke-width="23" stroke-linecap="square">
+                <path d="M28,0 L0,256" id="Line"></path>
+                <path d="M28,-4.26325641e-14 L270.5,33.5" id="Line"></path>
+                <path d="M319.5,201.5 L275.5,40.5" id="Line"></path>
+                <path d="M316.5,210.5 L223.5,322.5" id="Line"></path>
+                <path d="M5.5,258.5 L215.5,326.5" id="Line"></path>
+            </g>
+            <text id="RUTGERS-STEAM" font-family="ArialNarrow-Bold, Arial Narrow" font-size="57" font-weight="bold" fill="#6048A8">
+                <tspan x="45.2634277" y="149">RUTGERS</tspan>
+                <tspan x="77.7155762" y="214">STEAM</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
